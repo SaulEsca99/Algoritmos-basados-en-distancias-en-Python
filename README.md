@@ -1,5 +1,5 @@
 # 📊 Actividad 1: Algoritmos basados en distancias en Python  
-## Aprendizaje de máquina
+## MACHINE LEARNING
 
 **Integrantes:**
 * González Pérez Monserrat  
